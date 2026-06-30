@@ -49,7 +49,6 @@ This system matters because it improves healthcare efficiency, accessibility, co
 |---|---|
 | Name | Francis Charles Mbayo |
 | Age | 20 |
-| Email | mbayocharles26@gmail.com |
 | Patient ID | RW-2026-420 |
 | Goals | Book hospital services quickly, view medical records, receive appointment confirmation, and manage profile access |
 | Frustrations | Long queues, slow record access, unclear service availability, and repeated paperwork |
@@ -62,7 +61,6 @@ This system matters because it improves healthcare efficiency, accessibility, co
 |---|---|
 | Name | Dr. Dabanica Payne |
 | Specialty | General Medicine |
-| Email | doctor26@gmail.com |
 | Doctor ID | DOC-2026-0201 |
 | License No. | KGL-MED-2026-0201 |
 | Hospital | Hospital Kigali |
@@ -77,18 +75,11 @@ This system matters because it improves healthcare efficiency, accessibility, co
 |---|---|
 | Name | Francis Charles Mbayo |
 | Role | System Administrator |
-| Email | mbayocharles26@gmail.com |
 | Admin ID | ADM-2026-001 |
 | Organization | Hospital Kigali |
 | Goals | Manage hospital services, monitor appointments, organize patient records, and keep the system updated |
 | Frustrations | Scattered records, manual reporting, unclear appointment status, and difficulty tracking hospital activity |
 | Needs | Centralized dashboard, organized patient data, appointment monitoring tools, secure access, and clear system controls |
-
-## Demo Login Credentials
-
-| Role | Email | Password |
-|---|---|---|
-| Patient | mbayocharles26@gmail.com | francis2026 |
 
 ## User Flow Explanation
 
